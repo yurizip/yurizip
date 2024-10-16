@@ -1,4 +1,5 @@
-# Hello! Welcome to my github profile. Here I'll be uploading some projects to register my learning progress.
+# Hello! Welcome to my github profile. 
+##Here I'll be uploading some projects to register my learning progress.
 
 <!--
 **yurizip/yurizip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
